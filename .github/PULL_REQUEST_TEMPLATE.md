@@ -18,7 +18,6 @@
 
 - [ ] `npm run lint`
 - [ ] `npm run format:check`
-- [ ] `npm run typecheck`
 - [ ] `npm run build`
 - [ ] 변경된 기능의 정상 동작을 확인했습니다.
 - [ ] UI 변경이 있다면 데스크톱·모바일 화면을 확인했습니다.
