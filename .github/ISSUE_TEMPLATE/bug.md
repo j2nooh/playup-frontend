@@ -1,9 +1,9 @@
 ---
 name: 🐞 Bug
 about: 버그를 등록하고 수정 작업을 관리합니다.
-title: '[FIX] '
-labels: 'bug'
-assignees: ''
+title: "[FIX] "
+labels: "bug"
+assignees: ""
 ---
 
 ## 버그 요약
@@ -32,7 +32,7 @@ assignees: ''
 
 ## 환경 정보
 
-- 발생 페이지 / URL: 
+- 발생 페이지 / URL:
 - 환경: 로컬 / dev / prod
 - 브라우저:
 - OS:

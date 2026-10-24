@@ -1,9 +1,9 @@
 ---
 name: ✨ Feature
 about: 새로운 기능 추가 요청을 위한 템플릿
-title: '[FEAT] '
-labels: 'feature'
-assignees: ''
+title: "[FEAT] "
+labels: "feature"
+assignees: ""
 ---
 
 ## 작업 내용
